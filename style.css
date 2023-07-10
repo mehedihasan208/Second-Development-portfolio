@@ -45,7 +45,7 @@ font-size: 60px;
     background: #F15B22;
     width: 140px;
     height: 50px;
-    margin-top: 10px;
+    margin-top: 15px;
 }
 .semi-containar{
     display: flex;
@@ -100,7 +100,45 @@ margin-top: 7px;
     background-repeat: no-repeat;
 }
 .tips{
-    padding:120px 180px;
+    padding:60px 40px;
     font-size: 40px;
     color: #FFFFFF;
+    text-align:left;
+}
+.second-btn{
+    border-radius: 5px;
+    background: #F15B22;
+    width: 140px;
+    height: 50px;
+    /* margin-bottom: 0; */
+    padding: 20px;
+}
+.primary-footer{
+display: flex;
+color: #FFFFFF;
+gap: 200px;
+margin:100px;
+padding: 100px;
+}
+footer{
+    background-color: #151414;
+    height:500px;
+}
+.second-footer{
+    /* display: flex; */
+}
+
+.layout{
+
+}
+.layout-object{
+margin-top: 15px;
+}
+.hatim{
+    margin-top: 15px;
+}
+.main-hero{
+    margin-top: 25px;
+    justify-content:space-between;
+    margin-bottom: 80px;
 }
