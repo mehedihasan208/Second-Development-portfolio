@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* .containar-one{
+background-image: url("./portfolio/banner/banner2.png");
+height: 100vh;
+}
+.content h1{
+font-size: 60px;
+}
+.content p{
+    font-size: 20px;
+}
+.content button{
+    cursor: pointer;
+}
+.content{
+    padding: 100px;
+    text-align: right;
+    
+} */
+
+
+
+.containar-one{
+   background-image: url("/portfolio/banner/banner2.png");
+   height: 100vh;
+}
+.content{
+    text-align: right;
+    margin-right: 100px;
+    padding: 100px;
+}
+.content h1{
+    font-size: 50px;
+}
+.content p{
+    font-size: 17px;
+    color:#444343;
+    margin-top: 10px;
+}
+.primary-btn{
+    border-radius: 5px;
+    background: #F15B22;
+    width: 140px;
+    height: 50px;
+    margin-top: 15px;
+}
+.semi-containar{
+    display: flex;
+    align-items:center ;
+    gap: 100px;
+    width: 80%;
+    margin: auto;
+
+}
+.font{
+    color: red;
+}
+.full-contaiar li{
+    list-style: none;
+    color: #444343;
+}
+
+.full-contaiar h1{
+font-style:inherit;
+}
+
+.full-contaiar p{
+    color: #444343;
+}
+.contant-resume{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px;
+    margin-left: 150px;
+}
+.resume-info{
+    text-align: center;
+}
+.resume-style{
+    color: #151414;
+    /* width: 10px; */
+}
+.resume-font{
+font-size: 14px;
+color:  #737272;
+margin-top: 7px;
+}
+#mehedi{
+    text-align: center;
+    font-size: 40px;
+}
+.content-tips{
+    
+    background: linear-gradient(90deg, #F15B22 0%, rgba(18, 18, 18, 0) 100%),url(/portfolio/watch.png);
+    margin: 120px 200px;
+    background-repeat: no-repeat;
+}
+.tips{
+    padding:60px 40px;
+    font-size: 40px;
+    color: #FFFFFF;
+    text-align:left;
+}
+.second-btn{
+    border-radius: 5px;
+    background: #F15B22;
+    width: 140px;
+    height: 50px;
+    /* margin-bottom: 0; */
+    padding: 20px;
+}
+.primary-footer{
+display: flex;
+color: #FFFFFF;
+gap: 200px;
+margin:100px;
+padding: 100px;
+}
+footer{
+    background-color: #151414;
+    height:500px;
+}
+.second-footer{
+    /* display: flex; */
+}
+
+.layout{
+
+}
+.layout-object{
+margin-top: 15px;
+}
+.hatim{
+    margin-top: 15px;
+}
+.main-hero{
+    margin-top: 25px;
+    justify-content:space-between;
+    margin-bottom: 80px;
+}
